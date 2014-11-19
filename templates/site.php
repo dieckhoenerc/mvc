@@ -7,7 +7,7 @@
 		</style>
 	</head>
 	<body>
-		<div =id"header" class="col-md-12 bg-primary">
+		<div id="header" class="col-md-12 bg-primary">
 			<h1><u><?php echo "Mein MVC-System"; ?></u></h1>
 		</div>
 		
