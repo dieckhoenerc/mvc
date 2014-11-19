@@ -28,7 +28,7 @@
 		</div>
 		
 		<div =id"footer" class="col-md-12 bg-primary">
-			<?php echo "Mein MVC-System 2014"; ?>
+			<?php echo "© Mein MVC-System 2014"; ?>
 		</div>
 	
 	</body>
